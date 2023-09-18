@@ -1,6 +1,7 @@
 # Contributors
 - [ReDI-Cyberspace](https://github.com/ReDI-Cyberspace)
 - [MariaNazGondal]
+- Nana
 - [Julian Lilloy](https://github.com/elmasternero)
 - [Ernest Ugwoke]
 - IXIena
