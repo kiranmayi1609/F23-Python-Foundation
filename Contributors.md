@@ -6,6 +6,7 @@
 - [Ernest Ugwoke]
 - [Mercy-Ihediohamma](https://github.com/MercyChizoba)
 - IXIena
+- [Mariam Alnouri](https://github.com/MariamAlnouri)
 - [Andrii Stoliarov](https://github.com/THE-G0D/)
 - [Olabisi] (https://github.com/yemmola)
 - Nana
