@@ -4,6 +4,7 @@
 - monica tovar
 - [Julian Lilloy](https://github.com/elmasternero)
 - [Ernest Ugwoke]
+- [Mercy-Ihediohamma](https://github.com/MercyChizoba)
 - IXIena
 - [Andrii Stoliarov](https://github.com/THE-G0D/)
 - [Olabisi] (https://github.com/yemmola)
