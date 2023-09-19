@@ -7,4 +7,5 @@
 - IXIena
 - [Andrii Stoliarov](https://github.com/THE-G0D/)
 - [Olabisi] (https://github.com/yemmola)
+- Nana
 - [Keviindran Ramachandran](https://github.com/keviinx)
